@@ -1,4 +1,4 @@
-# Z-Lyrics (BETA) - Pengalaman Mendengarkan Lagu dengan Gaya
+# Z-Lyrics - Pengalaman Mendengarkan Lagu dengan Gaya
 
 Z-Lyrics adalah proyek pemutar musik interaktif yang dirancang untuk memberikan pengalaman mendengarkan lagu yang lebih keren dan menarik. Dengan antarmuka yang elegan, kontrol pemutar musik yang nyaman, dan integrasi lirik lagu yang membuat pengalaman musik Anda lebih hidup.
 
