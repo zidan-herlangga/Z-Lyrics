@@ -35,5 +35,81 @@
   { "lyric": "you turned your back on tomorrow", "time": 89 },
   { "lyric": "'Cause you forgot yesterday", "time": 91 },
   { "lyric": "I gave you my love to borrow", "time": 93 },
-  { "lyric": "But you just gave it away", "time": 95 }
+  { "lyric": "But you just gave it away", "time": 95 },
+
+  { "lyric": "You can't expect me to be fine", "time": 97 },
+  { "lyric": "I don't expect you to care", "time": 99 },
+  { "lyric": "I know I've said it before", "time": 101 },
+  { "lyric": "But all of our bridges burned down", "time": 104 },
+
+  { "lyric": "I've wasted my nights", "time": 106 },
+  { "lyric": "You turned out the lights", "time": 108 },
+  { "lyric": "Now, I'm paralyzed", "time": 111 },
+  { "lyric": "Still stuck in that time", "time": 113 },
+  { "lyric": "When we called it love", "time": 115 },
+  { "lyric": "But even the sun sets in paradise", "time": 117 },
+
+  { "lyric": "I'm at a payphone trying to call home", "time": 122 },
+  { "lyric": "All of my change I spent on you (oh, oh)", "time": 126 },
+  { "lyric": "Where have the times gone? Baby it's all wrong", "time": 131 },
+  { "lyric": "Where are the plans we made for two? (Yeah)", "time": 135 },
+
+  { "lyric": "If 'Happy Ever Afters' did exist", "time": 139 },
+  { "lyric": "I would still be holding you like this", "time": 144 },
+  { "lyric": "All those fairy tales are full of shit", "time": 149 },
+  { "lyric": "One more fucking love song, I'll be sick (uh)", "time": 152 },
+  { "lyric": "Now, I'm at a payphone", "time": 157 },
+
+  { "lyric": "Man, fuck that shit", "time": 159 },
+  {
+    "lyric": "I'll be out spending all this money while you sitting 'round",
+    "time": 160
+  },
+  {
+    "lyric": "Wondering why it wasn't you who came up from nothing",
+    "time": 162
+  },
+  {
+    "lyric": "Made it from the bottom, now, when you see me, I'm stunning",
+    "time": 165
+  },
+  { "lyric": "And all of my cars start with a push of a button", "time": 167 },
+  {
+    "lyric": "Telling me had chances I blew up or whatever you call it",
+    "time": 169
+  },
+  {
+    "lyric": "Switch the number to my phone, so you never could call it",
+    "time": 172
+  },
+  {
+    "lyric": "Don't need my name on my show, you can tell that I'm balling",
+    "time": 174
+  },
+
+  { "lyric": "Swish, what a shame could have got picked", "time": 176 },
+  {
+    "lyric": "Had a really good game, but you missed your last shot",
+    "time": 178
+  },
+  { "lyric": "So you talk about who you see at the top", "time": 180 },
+  {
+    "lyric": "Or what you could've saw, but sad to say, it's over for",
+    "time": 182
+  },
+  { "lyric": "Phantom pulled up, valet open doors", "time": 185 },
+  { "lyric": "Wished I'd go away, got what you was looking for", "time": 187 },
+  { "lyric": "Now, it's me who they want, so you can go", "time": 189 },
+  { "lyric": "And take that little piece of shit with you", "time": 190 },
+
+  { "lyric": "I'm at a payphone trying to call home", "time": 192 },
+  { "lyric": "All of my change I spent on you (woo)", "time": 196 },
+  { "lyric": "Where have the times gone? Baby it's all wrong", "time": 201 },
+  { "lyric": "Where are the plans we made for two? (Yeah, yeah)", "time": 205 },
+
+  { "lyric": "If 'Happy Ever Afters' did exist (oh, yeah)", "time": 209 },
+  { "lyric": "I would still be holding you like this", "time": 214 },
+  { "lyric": "All those fairy tales are full of shit", "time": 218 },
+  { "lyric": "One more fucking love song, I'll be sick (yeah)", "time": 222 },
+  { "lyric": "Now, I'm at a payphone", "time": 227 }
 ]

@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     nextButton.addEventListener("click", function () {
-      goToNextLyric();
+      nextLyricTime(audioElement.currentTime + 5);
     });
   }
 });
